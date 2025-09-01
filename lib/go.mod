@@ -13,9 +13,9 @@ require (
 	github.com/barkimedes/go-deepcopy v0.0.0-20220514131651-17c30cfc62df
 	github.com/cdk8s-team/cdk8s-core-go/cdk8s/v2 v2.69.74
 	github.com/chaos-mesh/chaos-mesh/api v0.0.0-20240709130330-9f4feec7553f
-	github.com/docker/docker v28.3.3+incompatible
-	github.com/docker/go-connections v0.5.0
-	github.com/ethereum/go-ethereum v1.16.2
+	github.com/docker/docker v28.0.1+incompatible
+	github.com/docker/go-connections v0.6.0
+	github.com/ethereum/go-ethereum v1.15.0
 	github.com/go-resty/resty/v2 v2.16.5
 	github.com/google/go-github/v41 v41.0.0
 	github.com/google/uuid v1.6.0
