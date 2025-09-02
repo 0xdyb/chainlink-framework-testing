@@ -15,6 +15,7 @@ require (
 	// post v3.4.2 version compatible with prometheus
 	github.com/grafana/loki/v3 v3.5.3
 	github.com/grafana/pyroscope-go v1.2.2
+
 	github.com/montanaflynn/stats v0.7.1
 	github.com/olekukonko/tablewriter v1.0.9
 	github.com/pkg/errors v0.9.1
@@ -147,7 +148,7 @@ require (
 	github.com/grafana/gomemcache v0.0.0-20250228145437-da7b95fd2ac1 // indirect
 	github.com/grafana/jsonparser v0.0.0-20241004153430-023329977675 // indirect
 	github.com/grafana/loki/pkg/push v0.0.0-20240924133635-758364c7775f // indirect
-	github.com/grafana/pyroscope-go/godeltaprof v0.1.8 // indirect
+	github.com/grafana/pyroscope-go/godeltaprof v0.1.9 // indirect
 	github.com/grafana/regexp v0.0.0-20240518133315-a468a5bfb3bc // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
 	github.com/hashicorp/consul/api v1.31.2 // indirect
