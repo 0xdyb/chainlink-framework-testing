@@ -13,8 +13,8 @@ require (
 	github.com/grafana/dskit v0.0.0-20250317084829-9cdd36a91f10
 	github.com/grafana/grafana-foundation-sdk/go v0.0.0-20240326122733-6f96a993222b
 	// post v3.4.2 version compatible with prometheus
-	github.com/grafana/loki/v3 v3.5.3
-	github.com/grafana/pyroscope-go v1.2.2
+	github.com/grafana/loki/v3 v3.5.5
+	github.com/grafana/pyroscope-go v1.2.7
 	github.com/montanaflynn/stats v0.7.1
 	github.com/olekukonko/tablewriter v1.0.9
 	github.com/pkg/errors v0.9.1
@@ -278,7 +278,7 @@ require (
 	golang.org/x/mod v0.27.0 // indirect
 	golang.org/x/net v0.43.0 // indirect
 	golang.org/x/oauth2 v0.30.0 // indirect
-	golang.org/x/sync v0.16.0
+	golang.org/x/sync v0.17.0
 	golang.org/x/sys v0.35.0 // indirect
 	golang.org/x/term v0.34.0 // indirect
 	golang.org/x/text v0.28.0 // indirect
